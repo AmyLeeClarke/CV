@@ -26,3 +26,8 @@ h3 {
 h2 {
     color: #665A48;
 }
+
+.circular {
+    border-radius:100%;
+ 
+}
