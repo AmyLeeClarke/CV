@@ -1,0 +1,50 @@
+
+body {
+    background-color: #F4FCD9;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #C5D8A4;
+    border-width: 8px;
+    width: 8%;
+
+}
+
+h1 {
+    color: #665A48
+
+}
+
+h3 {
+    color: #BB9981;
+
+}
+
+h2 {
+    color: #665A48;
+}
+
+.circular {
+    border-radius:100%;
+
+}
+
+.tree {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1200px;
+    height: 2000px;
+
+}
+
+.sun {
+    position: absolute;
+    right: 200px;
+
+}
