@@ -158,7 +158,7 @@ h2 {
     width: 15%;
     position: absolute;
     top: 2200px;
-    left: 200px;
+    left: 150px;
 }
 
 .youtube {
@@ -173,12 +173,26 @@ h2 {
     width: 15%;
     position: absolute;
     top: 3100px;
-    left: 200px;
+    left: 150px;
 }
 
 .bag {
     width: 15%;
     position: absolute;
     top: 3500px;
+    left: 1500px;
+}
+
+.education {
+    width: 15%;
+    position: absolute;
+    top: 1000px;
+    left: 150px;
+}
+
+.data {
+    width: 15%;
+    position: absolute;
+    top: 1500px;
     left: 1500px;
 }
