@@ -5,8 +5,12 @@ body {
     padding: 350px;
     font-family: 'Merriweather', serif;
     list-align: center;
+    width: 800px;
+    margin: 200px;
 
 }
+
+
 
 hr {
     border-style: none;
@@ -35,41 +39,120 @@ h2 {
 .circular {
     border-radius:100%;
     position: absolute;
-    left: 50px;
-    top: 50px;
+    left: 500px;
+    top: 300px;
 
 
 }
 
+.modules {
+    padding: 0px;
+    top: 0px;
+}
 .tree {
     position: absolute;
     right: 0px;
     top: 0px;
+    left: 900px;
     width: 1000px;
     height: 500px;
+    padding: 0;
+    text-align: none;
+    margin: 0px;
 
+}
+
+
+
+
+.leaf {
+    position: absolute;
+    width: 400px;
+    top: 890px;
+    left: 750px;
+}
+
+.leaf2 {
+    position: absolute;
+    width: 400px;
+    top: 1100px;
+    left: 750px;
+    top: 1375px;
+}
+
+.leaf3 {
+    position: absolute;
+    width: 400px;
+    top: 2000px;
+    left: 750px;
+
+}
+
+.leaf4 {
+    position: absolute;
+    width: 400px;
+    top: 1770px;
+    left: 750px;
+
+}
+.leaf5 {
+    position: absolute;
+    width: 400px;
+    left: 750px;
+    top: 3750px;
+}
+
+
+
+
+
+
+.course-skills {
+    text-align: left;
+}
+
+.skills {
+    text-align: left;
+    padding-bottom: 10px;
 }
 
 .sun {
     position: absolute;
     right: 100px;
     top: 300px;
+    left: 1300px;
 }
 
-
-.leaf {
+.module-list {
     position: absolute;
-    width: 40px;
-    height: 125px;
-    transform: rotate(90deg);
-    top: 660px;
+    text-align: center;
+    font-size: 200%;
+    font-family: 'Merriweather', serif;
+    top: 300px;
+    left: 50px;
+
 }
 
-.leaf2{
+.module-title {
     position: absolute;
-    width: 40px;
-    height: 125px;
-    transform: rotate(270deg);
-    top: 1130px;
+    text-align: center;
+    font-size: 400%;
+    top: 0px;
+    left: 50px;
 }
 
+.bbskills {
+    text-align: left;
+}
+
+.tskills {
+    text-align: left;
+}
+
+.smskills {
+    text-align: left;
+}
+
+.basskills {
+    text-align: left;
+}
