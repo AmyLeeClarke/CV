@@ -104,9 +104,6 @@ h2 {
 
 
 
-
-
-
 .course-skills {
     text-align: left;
 }
@@ -155,4 +152,33 @@ h2 {
 
 .basskills {
     text-align: left;
+}
+
+.payment {
+    width: 15%;
+    position: absolute;
+    top: 2200px;
+    left: 200px;
+}
+
+.youtube {
+    width: 15%;
+    position: absolute;
+    top: 2800px;
+    left: 1500px;
+
+}
+
+.shop {
+    width: 15%;
+    position: absolute;
+    top: 3100px;
+    left: 200px;
+}
+
+.bag {
+    width: 15%;
+    position: absolute;
+    top: 3500px;
+    left: 1500px;
 }
