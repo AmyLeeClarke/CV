@@ -196,3 +196,47 @@ h2 {
     top: 1500px;
     left: 1500px;
 }
+
+.contact-info {
+    position: absolute;
+    text-align: left;
+    font-size: 200%;
+    font-family: 'Merriweather', serif;
+    top: 150px;
+    left: 50px;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.contact-title2 {
+    position: absolute;
+    text-align: center;
+    font-size: 200%;
+    top: 0px;
+    left: 25px;
+}
+
+.contact-title {
+  font-size:16px;
+  font-family:Verdana;
+  top-margin:2px;
+  width:210px;
+  height:30px;
+  text-align: left;
+  border-width:1px;
+  color:#fff;
+  border-color:#18ab29;
+  border-top-left-radius:25px;
+  border-top-right-radius:28px;
+  border-bottom-left-radius:28px;
+  border-bottom-right-radius:28px;
+  text-shadow: 1px 1px 0px #2f6627;
+  background:rgba(83, 161, 103, 1);
+  position:relative;
+  left: 270px;
+}
+
+.contact-title:hover {
+  background: rgba(51, 82, 38, 1)
+}
