@@ -1,0 +1,260 @@
+
+body {
+    background-color: #DAF5FF;
+    text-align: center;
+    padding: 350px;
+    font-family: 'Merriweather', serif;
+    list-align: center;
+    width: 800px;
+    margin: 200px;
+
+}
+
+
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #DAF5FF;
+    border-width: 10px;
+    width: 10%;
+    height: 15px;
+
+}
+
+h1 {
+    color: #665A48;
+
+}
+
+h3 {
+    color: #BB9981;
+    width: 200px;
+    text-align: center;
+    padding-left: 300px;
+
+}
+
+h2 {
+    color: #665A48;
+}
+
+.circular {
+    border-radius:100%;
+    position: absolute;
+    left: 500px;
+    top: 300px;
+
+
+}
+
+.modules {
+    padding: 0px;
+    top: 0px;
+}
+.tree {
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    left: 900px;
+    width: 1000px;
+    height: 500px;
+    padding: 0;
+    text-align: none;
+    margin: 0px;
+
+}
+
+
+
+
+.leaf {
+    position: absolute;
+    width: 400px;
+    top: 900px;
+    left: 750px;
+}
+
+.leaf2 {
+    position: absolute;
+    width: 400px;
+    left: 750px;
+    top: 1390px;
+}
+
+.leaf3 {
+    position: absolute;
+    width: 400px;
+    top: 2085px;
+    left: 750px;
+
+}
+
+.leaf4 {
+    position: absolute;
+    width: 400px;
+    top: 2300px;
+    left: 750px;
+
+}
+.leaf5 {
+    position: absolute;
+    width: 400px;
+    left: 750px;
+    top: 4050px;
+}
+
+
+
+.course-skills {
+    text-align: left;
+}
+
+.skills {
+    text-align: left;
+    padding-bottom: 10px;
+}
+
+.sun {
+    position: absolute;
+    right: 100px;
+    top: 300px;
+    left: 1300px;
+}
+
+.module-list {
+    position: absolute;
+    text-align: center;
+    font-size: 200%;
+    font-family: 'Merriweather', serif;
+    top: 300px;
+    left: 50px;
+
+}
+
+.module-title {
+    position: absolute;
+    text-align: center;
+    font-size: 400%;
+    top: 0px;
+    left: 50px;
+}
+
+.bbskills {
+    text-align: left;
+}
+
+.tskills {
+    text-align: left;
+}
+
+.smskills {
+    text-align: left;
+}
+
+.basskills {
+    text-align: left;
+}
+
+.payment {
+    width: 15%;
+    position: absolute;
+    top: 2200px;
+    left: 150px;
+}
+
+.youtube {
+    width: 15%;
+    position: absolute;
+    top: 2800px;
+    left: 1500px;
+
+}
+
+.shop {
+    width: 15%;
+    position: absolute;
+    top: 3100px;
+    left: 150px;
+}
+
+.bag {
+    width: 15%;
+    position: absolute;
+    top: 3500px;
+    left: 1500px;
+}
+
+.education {
+    width: 15%;
+    position: absolute;
+    top: 1000px;
+    left: 150px;
+}
+
+.data {
+    width: 15%;
+    position: absolute;
+    top: 1500px;
+    left: 1500px;
+}
+
+.contact-info {
+    position: absolute;
+    text-align: left;
+    font-size: 200%;
+    font-family: 'Merriweather', serif;
+    top: 150px;
+    left: 50px;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.contact-title2 {
+    position: absolute;
+    text-align: center;
+    font-size: 200%;
+    top: 0px;
+    left: 25px;
+}
+
+.contact-title {
+  font-size:16px;
+  font-family:Verdana;
+  top-margin:2px;
+  width:210px;
+  height:30px;
+  text-align: left;
+  border-width:1px;
+  color:#fff;
+  border-color:#18ab29;
+  border-top-left-radius:25px;
+  border-top-right-radius:28px;
+  border-bottom-left-radius:28px;
+  border-bottom-right-radius:28px;
+  text-shadow: 1px 1px 0px #2f6627;
+  background:rgba(83, 161, 103, 1);
+  position: relative;
+  left: -20px;
+  text-decoration: none;
+}
+
+.contact-title:hover {
+  background: rgba(51, 82, 38, 1)
+}
+
+.footer-container {
+    height: 1000px;
+    background-color: #665A48;
+    padding: 50px 0 20px;
+}
+
+.a {
+    text-decoration:none;
+}
+
+.sql {
+    text-align: left;
+    padding-bottom: 10px;
+}
