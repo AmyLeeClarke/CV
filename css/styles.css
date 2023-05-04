@@ -29,6 +29,9 @@ h1 {
 
 h3 {
     color: #BB9981;
+    width: 200px;
+    text-align: center;
+    padding-left: 300px;
 
 }
 
@@ -68,22 +71,21 @@ h2 {
 .leaf {
     position: absolute;
     width: 400px;
-    top: 890px;
+    top: 920px;
     left: 750px;
 }
 
 .leaf2 {
     position: absolute;
     width: 400px;
-    top: 1100px;
     left: 750px;
-    top: 1375px;
+    top: 1410px;
 }
 
 .leaf3 {
     position: absolute;
     width: 400px;
-    top: 2000px;
+    top: 2180px;
     left: 750px;
 
 }
@@ -91,7 +93,7 @@ h2 {
 .leaf4 {
     position: absolute;
     width: 400px;
-    top: 1770px;
+    top: 2390px;
     left: 750px;
 
 }
@@ -99,7 +101,7 @@ h2 {
     position: absolute;
     width: 400px;
     left: 750px;
-    top: 3750px;
+    top: 3650px;
 }
 
 
@@ -157,30 +159,24 @@ h2 {
 .payment {
     width: 15%;
     position: absolute;
-    top: 2200px;
+    top: 2650px;
     left: 150px;
 }
 
-.youtube {
-    width: 15%;
-    position: absolute;
-    top: 2800px;
-    left: 1500px;
 
-}
 
 .shop {
     width: 15%;
     position: absolute;
-    top: 3100px;
-    left: 150px;
+    top: 3000px;
+    left: 1500px;
 }
 
 .bag {
     width: 15%;
     position: absolute;
-    top: 3500px;
-    left: 1500px;
+    top: 3400px;
+    left: 150px;
 }
 
 .education {
@@ -193,7 +189,7 @@ h2 {
 .data {
     width: 15%;
     position: absolute;
-    top: 1500px;
+    top: 1700px;
     left: 1500px;
 }
 
@@ -233,8 +229,8 @@ h2 {
   border-bottom-right-radius:28px;
   text-shadow: 1px 1px 0px #2f6627;
   background:rgba(83, 161, 103, 1);
-  position:relative;
-  left: 270px;
+  position: relative;
+  left: -20px;
   text-decoration: none;
 }
 
@@ -250,4 +246,9 @@ h2 {
 
 .a {
     text-decoration:none;
+}
+
+.sql {
+    text-align: left;
+    padding-bottom: 10px;
 }
