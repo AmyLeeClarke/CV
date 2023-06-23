@@ -68,41 +68,7 @@ h2 {
 
 
 
-.leaf {
-    position: absolute;
-    width: 400px;
-    top: 920px;
-    left: 750px;
-}
 
-.leaf2 {
-    position: absolute;
-    width: 400px;
-    left: 750px;
-    top: 1410px;
-}
-
-.leaf3 {
-    position: absolute;
-    width: 400px;
-    top: 2180px;
-    left: 750px;
-
-}
-
-.leaf4 {
-    position: absolute;
-    width: 400px;
-    top: 2390px;
-    left: 750px;
-
-}
-.leaf5 {
-    position: absolute;
-    width: 400px;
-    left: 750px;
-    top: 3650px;
-}
 
 
 
@@ -251,4 +217,8 @@ h2 {
 .sql {
     text-align: left;
     padding-bottom: 10px;
+}
+
+.uni {
+    text-align: left;
 }
